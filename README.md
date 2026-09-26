@@ -6,7 +6,7 @@ El proyecto simula el proceso de envío de un correo electrónico mediante un fo
 
 ## 🚀 Demo
 
-Disponible mediante GitHub Pages.
+[Disponible mediante GitHub Pages.](https://cristhianychr.github.io/simulador-envio-email-js/)
 
 ## 📸 Vista previa
 
