@@ -15,7 +15,7 @@ El proyecto simula el proceso de envío de un correo electrónico mediante un fo
 ## 🛠️ Tecnologías utilizadas
 
 * HTML5
-* CSS3
+* Tailwind CSS
 * JavaScript
 * DOM
 * Git
